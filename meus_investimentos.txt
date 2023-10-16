@@ -1,0 +1,5 @@
+codigo_papel,quantidade
+VALE,100
+MSFT,0
+DIS,200
+AAPL,400
